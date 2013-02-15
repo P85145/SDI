@@ -8,13 +8,38 @@ alert("JavaScript works!");
 var txt="Our Vegas trip";
 var groupmember= "Stacey";
 var myBoolean= new true ("she is already preparing");
+// Return Boolean
+{
+    if (confirm("She is already preparing" + "new purchases")) {
+    return true;
+    } else {
+    return false;
+    }
+}
+ 
 var time =4 + "months left.";
 var txt="Started shopping already";
 var purchases=["swimsuit", "sandals", "dinner gown"];
+return purchases;
+// Return Array
+}
+    showArray(the Array){
+    var qoute = "swimsuit", "sandals", "dinner gown";
+    return quote;
+}
+ 
+var txt="She needs more options", "Can't wear the same thing each day.";
+}
+    if (confirm("She needs more options", "Can't wear the same thing each day.")) {
+    return true;
+    } else {
+    return false;
+    }
+}
  
 // 2nd paragraph
 // While Loop
-while (purchases-(.50)
+while (purchases=purchase-(purchase*.50)
 {
 "Keep shopping" + "<brk>"; "Let's Go!";
 }
